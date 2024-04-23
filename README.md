@@ -2,7 +2,7 @@
 
 # JavaScript Portfolio Site with GitHub Codespaces and Copilot
 
-> View these instructions in [Spanish](/translations/es/README.md) or [Portuguese](/translations/pt-BR/README.md)
+> View these instructions in [Spanish](/translations/es/README.md) or [Portuguese](/tb ranslations/pt-BR/README.md)
 
 _Create, customize and deploy your own portfolio website in minutes._ ✨
 
